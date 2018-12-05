@@ -1,5 +1,5 @@
 {
-  "players": [
+  "posts": [
     { "rank": 1, "name": "Post 1", "countryCode": "VN" },
 	{ "rank": 2, "name": "Post 1", "countryCode": "VN" },
 	{ "rank": 3, "name": "Post 1", "countryCode": "VN" },
