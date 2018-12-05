@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "players": [
     { "rank": 1, "name": "Post 1", "countryCode": "VN" },
 	{ "rank": 2, "name": "Post 1", "countryCode": "VN" },
 	{ "rank": 3, "name": "Post 1", "countryCode": "VN" },
@@ -30,12 +30,12 @@
 	{ "rank": 28, "name": "Post 1", "countryCode": "VN" },
 	{ "rank": 29, "name": "Post 1", "countryCode": "VN" },
 	{ "rank": 30, "name": "Post 1", "countryCode": "VN" },
-  ],
+  ]
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "total": 1000, "postId": 1 
+	}
   ],
   "profile": {
-    "name": "typicode"
+    "name": "xc"
   }
 }
