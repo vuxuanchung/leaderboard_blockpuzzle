@@ -30,7 +30,7 @@
 	{ "rank": 28, "name": "Post 1", "countryCode": "VN" },
 	{ "rank": 29, "name": "Post 1", "countryCode": "VN" },
 	{ "rank": 30, "name": "Post 1", "countryCode": "VN" }
-  ]
+  ],
   "comments": [
     { "id": 1, "total": 1000, "postId": 1 
 	}
